@@ -53,9 +53,7 @@ int main(void)
         // Handle built-in commands
         if (cmd == "help") {
             cout << "//*********************************************************\n";
-            cout << "// Ethan Rockwood>\n";
-            cout << "// CSC360/660 Operating Systems\n";
-            cout << "// Project #1: My Shell - Writing Your Own Shell\n";
+            cout << "// OS Project #1: My Shell - Writing Your Own Shell\n";
             cout << "// This shell supports the following commands: help, exit, history\n";
             cout << "//*********************************************************\n";
             continue;
